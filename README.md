@@ -10,6 +10,11 @@
 
 <h2>Data Preparation with Roboflow 🤖</h2>
 <p>We've powered up our dataset using Roboflow! With over 14,000 annotated images, our model is trained on a diverse range of crowd scenarios, ensuring robust performance across various environments.</p>
+ Download the dataset from here->
+ 
+ <a href="https://universe.roboflow.com/gp-33org/crowd-detetction">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+</a>
 
 
 <h2>Training on Kaggle Notebooks 📓</h2>
