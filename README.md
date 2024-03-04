@@ -20,3 +20,19 @@
 <h2>Training on Kaggle Notebooks 📓</h2>
 <p>To train our model, we utilized the powerful computational resources available on Kaggle's notebook environment. With its GPU support and seamless integration with Python libraries, training our YOLOv8 model was a breeze! </p>
 
+
+<h2>Results 👾 :</h2>
+
+
+
+https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/12664f4c-cde9-4c0d-93c5-2647d09ac44c
+
+
+
+![demo](https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/987cb9ef-8cf9-48d2-8974-587c42c2b83b)
+
+![demo2](https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/8601dde7-ca54-4bbb-a32a-5dd4cc7a7c7d)
+
+
+
+
