@@ -1,17 +1,5 @@
 
 
-
-
-https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/8eb63da0-9974-4355-99d2-0c2993715a19
-
-
-
-
-
-
-
-
-
 <h1>👥 Crowd Detection System using YOLOv8</h1>
 
 <h2>What's This?</h2>
@@ -37,15 +25,11 @@ https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/8
 
 <h2>Results 👾 :</h2>
 
-
-
-
-
 ![demo](https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/987cb9ef-8cf9-48d2-8974-587c42c2b83b)
 
 ![demo2](https://github.com/yassinmohamed111/crowd_detection-system-v1/assets/108435195/8601dde7-ca54-4bbb-a32a-5dd4cc7a7c7d)
 
-
+check The video of the results -> https://youtu.be/2HTOQ2ncJgo
 
 
 
